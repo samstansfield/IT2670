@@ -1,3 +1,3 @@
-# Car Calculator
+# Area Calculator
 
-This is the first program to use a programmer-created class.
+This program defines a function outside of the main() method.
